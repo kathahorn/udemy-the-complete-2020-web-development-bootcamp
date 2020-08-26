@@ -1,0 +1,15 @@
+{
+  "name": "section-19-express-server",
+  "version": "1.0.0",
+  "description": "My first express server and solution to the Express.js challenge of the course \"The Complete 2020 Web Development Bootcamp\" from Udemy: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384540#overview",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Katharina Horn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

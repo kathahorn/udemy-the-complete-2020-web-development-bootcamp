@@ -1,0 +1,15 @@
+{
+  "name": "section-19-calculator-and-bmi-routing",
+  "version": "1.0.0",
+  "description": "A simple calculator and bmi calculator. My solution to the Express.js challenge of the course \"The Complete 2020 Web Development Bootcamp\" from Udemy: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12400870#overview",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katharina Horn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

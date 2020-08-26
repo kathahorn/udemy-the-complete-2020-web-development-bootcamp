@@ -1,0 +1,15 @@
+{
+  "name": "section-20-weather",
+  "version": "1.0.0",
+  "description": "A simple weather report and my solution to the APIs challenge of the course \"The Complete 2020 Web Development Bootcamp\" from Udemy: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125177#overview",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katharina Horn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

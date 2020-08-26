@@ -1,0 +1,17 @@
+{
+  "name": "section-22-to-do-list",
+  "version": "1.0.0",
+  "description": "A simple to do list and my solution to the EJS challenge of the course \"The Complete 2020 Web Development Bootcamp\" from Udemy: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384810",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katharina Horn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "moment": "^2.27.0"
+  }
+}
