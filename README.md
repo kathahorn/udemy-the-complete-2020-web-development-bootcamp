@@ -39,6 +39,7 @@ My solutions to the challenges of the course ["The Complete 2020 Web Development
 - [x] Section 20: **APIs – Weather**
 - [x] Section 22: **EJS – To Do List**
 - [x] Section 23: **Boss Level Challenge 3 – Blog Website**
+- [x] Section 26: **Native MongoDB Driver**
 
 ## Installation
 

@@ -1,0 +1,15 @@
+{
+  "name": "section-26-mongodb-node-driver",
+  "version": "1.0.0",
+  "description": "A simple Node.js App which is connected to MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katharina Horn",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
