@@ -43,6 +43,7 @@ My solutions to the challenges of the course ["The Complete 2020 Web Development
 - [x] Section 27: **Mongoose**
 - [x] Section 28: **Putting Everything Together – To Do List V2**
 - [x] Section 30: **Boss Level Callenge 4 – Blog Website Upgrade**
+- [x] Section 31: **Build Your Own RESTful API From Scratch**
 
 ## Installation
 
